@@ -29,7 +29,7 @@ let productImgContainer = document.querySelector('.product-img-container')
 let productImg = document.querySelector('.product-img')
 let backdropImg = document.querySelector('.backdrop-img')
 
-let productDetail = document.querySelector('product-detail')
+let productDetail = document.querySelector('.product-detail')
 let productName = document.querySelector('.product-name')
 let productDes = document.querySelector('.product-des')
 
