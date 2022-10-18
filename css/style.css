@@ -130,11 +130,11 @@ body{
 }
 
 .product-detail{
-    width: 60%;
+    width: 70%;
 }
 
 .product-name{
-    font-size: 8vw;
+    font-size: 6vw;
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     font-family: 'Sirin Stencil', cursive;
